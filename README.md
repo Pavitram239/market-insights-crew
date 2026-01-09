@@ -2,6 +2,9 @@
 
 A powerful multi-agent AI system that performs intelligent stock analysis and trading recommendations using CrewAI framework and Groq LLM.
 
+## Live Demo 
+[Market Insights Crew](https://pavitram239-market-insights-crew-app-os2xbb.streamlit.app/)
+
 ## 🎯 Features
 
 - **Multi-Agent Analysis**: Financial Analyst and Strategic Trader agents work together
