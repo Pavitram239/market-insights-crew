@@ -19,7 +19,7 @@ A powerful multi-agent AI system that performs intelligent stock analysis and tr
 ## 🏗️ Project Structure
 
 ```
-multi-agents-with-crewai/
+market-insights-crew/
 ├─ main.py              # CLI entry point
 ├─ app.py               # Streamlit web dashboard
 ├─ crew.py              # CrewAI crew configuration
@@ -27,9 +27,11 @@ multi-agents-with-crewai/
 ├─ .env                 # Environment variables (API keys)
 ├─ agents/
 │  ├─ analyst_agent.py       # Financial analyst agent
+|  ├─ news_agent.py          # News Researcher agent
 │  └─ trader_agent.py        # Trading decision agent
 ├─ tasks/
 │  ├─ analyze_task.py        # Stock analysis task
+│  ├─ news_task.py           # News research task
 │  └─ trader_task.py         # Trading decision task
 └─ tools/
    └─ stock_research.py      # Stock research tools
