@@ -1,0 +1,13 @@
+# Multi-Agent Framework
+crewai
+
+# LLM Orchestration & Tools
+crewai_tools
+pydantic
+
+# UI and Dashboard
+streamlit
+
+# Data Retrieval and Environment
+yfinance
+python-dotenv
